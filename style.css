@@ -1,0 +1,11 @@
+.regis{
+    text-decoration: underline !important;
+    text-align: center;
+    font-size: 30px;
+}
+[type="button"]{
+    color: green;
+}
+.button{
+    text-align: center;
+}
